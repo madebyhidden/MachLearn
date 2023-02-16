@@ -113,8 +113,6 @@ def gameLoop():
             if eachSegment == snakeHead:
                 gameOver = True
 
-
-
         # Обновление экрана
         pygame.display.update()
 
